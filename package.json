@@ -1,0 +1,17 @@
+{
+  "name": "tests-generator-examples-enzyme",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "react-scripts test --passWithNoTests"
+  },
+  "author": "epexa",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.26.1",
+    "react-scripts": "3.1.1",
+    "reselect": "^4.0.0"
+  },
+  "devDependencies": {
+    "enzyme": "^3.10.0"
+  }
+}
